@@ -1,0 +1,17 @@
+Get inside of directory.
+
+Give Chmod 777 Access Level.
+
+chmod 777 wafninja joomscan install-perl-module.sh ArmaTank.sh
+chmod 777 Module/WhatWeb/whatweb
+And Then Install Python Module
+
+pip install -r requirements.txt
+
+After That Install Perl Module
+
+./install-perl-module.sh
+preparation finished now run this tool and happy pentest
+
+Run This Tool
+Thanks
